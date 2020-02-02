@@ -1,4 +1,4 @@
-name: selenium-webdriver-es6-modules-babeljs-tape
+name: selenium-webdriver-es6-modules-esm-tape
 
 on:
   push:

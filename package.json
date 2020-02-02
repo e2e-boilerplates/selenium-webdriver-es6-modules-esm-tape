@@ -1,10 +1,10 @@
 {
-  "name": "selenium-webdriver-es6-modules-babeljs-tape",
+  "name": "selenium-webdriver-es6-modules-esm-tape",
   "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6-modules, BabelJS and Tape.",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6-modules, ESM and Tape.",
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
-    "test": "npx babel-tape-runner ./spec/*.js"
+    "test": "npx tape -r 'esm' ./spec/*.js"
   },
   "keywords": [
     "selenium-webdriver",
@@ -12,23 +12,19 @@
     "tape",
     "boilerplate",
     "example",
-    "babeljs"
+    "esm",
+    "e2e"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "7.8.4",
-    "@babel/plugin-transform-runtime": "7.8.3",
-    "@babel/preset-env": "7.8.4",
-    "@babel/register": "7.8.3",
-    "@babel/runtime": "7.8.4",
-    "babel-tape-runner": "^3.0.0",
     "chromedriver": "79.0.2",
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-config-prettier": "6.10.0",
     "eslint-plugin-import": "2.20.0",
     "eslint-plugin-prettier": "3.1.2",
+    "esm": "^3.2.25",
     "husky": "4.2.1",
     "prettier": "1.19.1",
     "pretty-quick": "2.0.1",

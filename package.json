@@ -8,12 +8,13 @@
   },
   "keywords": [
     "selenium-webdriver",
-    "es6 modules",
+    "es6",
+    "e2e",
     "tape",
     "boilerplate",
     "example",
     "esm",
-    "e2e"
+    "e2e test"
   ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "license": "MIT",

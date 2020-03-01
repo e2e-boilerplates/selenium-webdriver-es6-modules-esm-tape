@@ -1,29 +1,13 @@
 {
-  "name": "selenium-webdriver-es6-modules-esm-tape",
-  "version": "1.0.0",
-  "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6-modules, ESM and Tape.",
-  "scripts": {
-    "lint": "npx eslint --ext .js ./ --fix",
-    "test": "npx tape -r 'esm' ./spec/*.js"
-  },
-  "keywords": [
-    "selenium-webdriver",
-    "es6",
-    "e2e",
-    "tape",
-    "boilerplate",
-    "example",
-    "esm",
-    "e2e test"
-  ],
   "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
-  "license": "MIT",
+  "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6-modules, ESM and Tape.",
   "devDependencies": {
     "chromedriver": "79.0.3",
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.0.0",
     "eslint-config-prettier": "6.10.0",
     "eslint-plugin-import": "2.20.1",
+    "eslint-plugin-json": "^2.1.0",
     "eslint-plugin-prettier": "3.1.2",
     "esm": "3.2.25",
     "husky": "4.2.3",
@@ -36,5 +20,29 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "keywords": [
+    "boilerplate",
+    "e2e",
+    "e2e tests",
+    "es6",
+    "esm",
+    "example",
+    "integration test",
+    "selenium",
+    "selenium-webdriver",
+    "tape",
+    "webdriver"
+  ],
+  "license": "MIT",
+  "name": "selenium-webdriver-es6-modules-esm-tape",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-esm-tape.git"
+  },
+  "scripts": {
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "npx tape -r 'esm' ./spec/*.js"
+  },
+  "version": "1.0.0"
 }

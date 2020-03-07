@@ -1,5 +1,5 @@
 {
-  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
+  "author": "",
   "description": "selenium-webdriver end-to-end test automation boilerplate, using ES6-modules, ESM and Tape.",
   "devDependencies": {
     "chromedriver": "79.0.3",
@@ -22,13 +22,9 @@
     }
   },
   "keywords": [
-    "boilerplate",
-    "e2e",
-    "e2e tests",
+    "es Modules",
     "es6",
     "esm",
-    "example",
-    "integration test",
     "selenium",
     "selenium-webdriver",
     "tape",

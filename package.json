@@ -22,7 +22,7 @@
     }
   },
   "keywords": [
-    "es modules",
+    "es",
     "esm",
     "selenium",
     "selenium-webdriver",
@@ -30,10 +30,10 @@
     "webdriver"
   ],
   "license": "MIT",
-  "name": "selenium-webdriver-es6-modules-esm-tape",
+  "name": "selenium-webdriver-es-modules-esm-tape",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-esm-tape.git"
+    "url": "git+https://github.com/e2e-boilerplates/selenium-webdriver-es-modules-esm-tape.git"
   },
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",

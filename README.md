@@ -1,12 +1,12 @@
-# selenium-webdriver: (ES6-modules, ESM and Tape)
+[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-esm-tape](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape/workflows/selenium-webdriver-es-modules-esm-tape/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape/actions?workflow=selenium-webdriver-es-modules-esm-tape)
 
-[![GitHub Actions status | e2e-boilerplates/selenium-webdriver-es6-modules-esm-tape](https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-esm-tape/workflows/selenium-webdriver-es6-modules-esm-tape/badge.svg)](https://github.com/e2e-boilerplates/selenium-webdriver-es6-modules-esm-tape/actions?workflow=selenium-webdriver-es6-modules-esm-tape)
+# Selenium-WebDriver Boilerplate
 
-selenium-webdriver end-to-end test automation boilerplate, using ES6-modules, ESM and Tape.
+Selenium-WebDriver end-to-end test automation boilerplate, using ES Modules, esm and Tape.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/selenium-webdriver-es6-modules-esm-tape.git
-    cd selenium-webdriver-es6-modules-esm-tape
-    npm install
-    npm run test
+git clone git@github.com:e2e-boilerplate/selenium-webdriver-es-modules-esm-tape.git
+cd selenium-webdriver-es-modules-esm-tape
+npm install
+npm run test

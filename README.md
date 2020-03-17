@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-esm-tape](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape/workflows/selenium-webdriver-es-modules-esm-tape/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape/actions?workflow=selenium-webdriver-es-modules-esm-tape)
+[![GitHub Actions status | e2e-boilerplate/selenium-webdriver-es-modules-esm-tape](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape/workflows/selenium-webdriver-es-modules-esm-tape/badge.svg)](https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape/actions?workflow=selenium-webdriver-es-modules-esm-tape) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Selenium-WebDriver Boilerplate
 

@@ -1,5 +1,5 @@
 name: selenium-webdriver-es-modules-esm-tape
-"on":
+'on':
   push: null
   schedule:
     - cron: 30 3 1-31/2 * *

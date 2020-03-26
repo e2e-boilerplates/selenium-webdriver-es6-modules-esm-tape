@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "chromedriver": "80.0.1",
+    "eslint": "6.8.0",
     "esm": "3.2.25",
     "selenium-webdriver": "4.0.0-alpha.7",
     "tape": "4.13.2",
@@ -13,7 +14,6 @@
   "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using ES Modules, esm and Tape.",
   "devDependencies": {
     "@types/tape": "4.2.34",
-    "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",
     "eslint-config-prettier": "6.10.1",
     "eslint-plugin-import": "2.20.1",

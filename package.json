@@ -25,7 +25,7 @@
   "homepage": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "pretty-quick --staged"
+      "pre-commit": "lint-staged"
     }
   },
   "keywords": [
@@ -40,6 +40,11 @@
     "tape"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write"
+    ]
+  },
   "name": "selenium-webdriver-es-modules-esm-tape",
   "repository": {
     "type": "git",

@@ -1,3 +1,3 @@
-| referrer                                                        | count | uniques |
-| :-------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/selenium-webdriver-es-modules-esm-tape/pull/16 | 1     | 1       |
+| referrer                                                | count | uniques |
+| :------------------------------------------------------ | :---- | :------ |
+| /e2e-boilerplate/selenium-webdriver-es-modules-esm-tape | 1     | 1       |

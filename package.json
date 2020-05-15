@@ -12,7 +12,6 @@
   },
   "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using ES Modules, esm and Tape.",
   "devDependencies": {
-    "@types/tape": "4.13.0",
     "eslint": "7.0.0",
     "eslint-config-airbnb-base": "14.1.0",
     "eslint-config-prettier": "6.11.0",
@@ -33,12 +32,14 @@
     "boilerplate",
     "e2e",
     "e2e tests",
+    "es modules",
     "esm",
     "example",
     "integration test",
     "selenium",
     "selenium-webdriver",
-    "tape"
+    "tape",
+    "webdriver manager"
   ],
   "license": "MIT",
   "lint-staged": {

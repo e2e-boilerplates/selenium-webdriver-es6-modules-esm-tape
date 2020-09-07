@@ -2,7 +2,7 @@
     
 # Selenium-WebDriver Boilerplate
     
-Selenium-WebDriver end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [esm](https://www.npmjs.com/package/esmjs) and [Tape](https://github.com/substack/tape).
+Selenium-WebDriver end-to-end test automation boilerplate, Using [ES Modules](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), [esm](https://www.npmjs.com/package/esmjs) and [Tape](https://github.com/substack/tape).. Clone or fork this repository.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/selenium-webdriver-es-modules-esm-tape.git

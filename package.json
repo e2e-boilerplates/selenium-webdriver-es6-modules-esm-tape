@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape/issues"
   },
   "dependencies": {
-    "chromedriver": "85.0.0",
+    "chromedriver": "85.0.1",
     "esm": "3.2.25",
     "selenium-webdriver": "4.0.0-alpha.7",
     "tape": "5.0.1",

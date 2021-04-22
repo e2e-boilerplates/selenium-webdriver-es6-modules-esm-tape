@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/selenium-webdriver-es-modules-esm-tape/issues"
   },
   "dependencies": {
-    "chromedriver": "87.0.7",
+    "chromedriver": "90.0.4430.24",
     "esm": "3.2.25",
     "selenium-webdriver": "4.0.0-beta.1",
     "tape": "5.2.2",
@@ -12,11 +12,11 @@
   },
   "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using ES Modules, esm and Tape.",
   "devDependencies": {
-    "eslint": "7.21.0",
+    "eslint": "7.24.0",
     "eslint-config-airbnb-base": "14.2.1",
     "eslint-config-prettier": "6.15.0",
     "eslint-plugin-import": "2.22.1",
-    "eslint-plugin-prettier": "3.3.1",
+    "eslint-plugin-prettier": "3.4.0",
     "husky": "4.3.8",
     "lint-staged": "10.5.4",
     "prettier": "2.2.1",
